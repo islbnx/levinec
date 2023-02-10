@@ -1,17 +1,17 @@
 <h1 align="center">Olá 👋, me chamo Levine Caixeta</h1>
 <h3 align="center">Me aperfeiçoando cada vez mais em análise de dados em Power BI</h3>
 
-- 🔭 Atualmente estou desenvolvendo técnicas analítica e linguagem DAX no Power BI [em projetos aleatórios na internet](https://www.kaggle.com/datasets)
+- 🔭 Atualmente estou desenvolvendo técnicas analítica e linguagem DAX no Power BI em projetos aleatórios na internet (https://www.kaggle.com/datasets)
 
 - 🌱 Estou aprendendo atualmente **Python, Power BI (DAX), SQL, Ciência de Dados**
 
-- 👯 Estou colaborando com banco de dados para análise de estoque [no setor de matéria-prima de plástico](https://prnt.sc/SsuwEMmG-2GC)
+- 👯 Já colaborei com banco de dados para análise de estoque no setor de matéria-prima de plástico na **empresa Metalúrgica Mor** (https://prnt.sc/SsuwEMmG-2GC)
 
 - 🤝 Estou procurando novas oportunidades para trabalhar **na área de análise de dados**
 
 - 👨‍💻 Projeto desenvolvido para a empresa Metalúrgica Mor está em [https://app.powerbi.com/view?r=eyJrIjoiYTIxZmU2ZDYtYmE0MS00Nzk5LWIzZjgtNWUwNDkxNGQ0NDBlIiwidCI6Ijg3ZWRhOWU3LTI4MzMtNDcyMC04N2IwLTg0YTk2N2U0NTMyYSJ9](https://app.powerbi.com/view?r=eyJrIjoiYTIxZmU2ZDYtYmE0MS00Nzk5LWIzZjgtNWUwNDkxNGQ0NDBlIiwidCI6Ijg3ZWRhOWU3LTI4MzMtNDcyMC04N2IwLTg0YTk2N2U0NTMyYSJ9)
 
-- 📝 Discuto assuntos de meu interesse [sem link](sem link)
+- 📝 Discuto assuntos de meu interesse como citarei abaixo, porém sem blog.
 
 - 💬 Me pergunte sobre **Power BI, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo**
 
