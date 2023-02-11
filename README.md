@@ -13,7 +13,7 @@
 
 - 📝 Discuto assuntos de meu interesse como citarei abaixo, porém sem blog.
 
-- 💬 Me pergunte sobre **Power BI, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo**
+- 💬 Me pergunte sobre **Power BI, Modelagem de dados, Linguagem DAX, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo**
 
 - 📫 Serei encontrado em **lebuenno@gmail.com**
 
