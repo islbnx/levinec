@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo atualmente **Python, Power BI (DAX), SQL, Ciência de Dados**
 
-- 👯 Já colaborei com banco de dados para análise de estoque no setor de matéria-prima de plástico na **empresa Metalúrgica Mor** (https://prnt.sc/SsuwEMmG-2GC)
+- 👯 Já colaborei com banco de dados coletando informações do TOTVS para análise de estoque no setor de matéria-prima de plástico na **empresa Metalúrgica Mor** (https://prnt.sc/SsuwEMmG-2GC)
 
 - 🤝 Estou procurando novas oportunidades para trabalhar **na área de análise de dados**
 
@@ -13,7 +13,7 @@
 
 - 📝 Discuto assuntos de meu interesse como citarei abaixo, porém sem blog.
 
-- 💬 Me pergunte sobre **Power BI, Modelagem de dados, Linguagem DAX, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo**
+- 💬 Me pergunte sobre **Power BI, Modelagem de dados, Linguagem DAX, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo, WMS**
 
 - 📫 Serei encontrado em **lebuenno@gmail.com**
 
