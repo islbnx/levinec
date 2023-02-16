@@ -3,11 +3,11 @@
 
 - 🔭 Atualmente estou desenvolvendo técnicas analítica e linguagem DAX no Power BI em projetos aleatórios na internet (https://www.kaggle.com/datasets)
 
-- 🌱 Estou aprendendo atualmente **Python, Power BI (DAX), SQL, Ciência de Dados**
+- 🌱 Estou aprendendo atualmente **Python, Machine Learning, Power BI (DAX), SQL, Ciência de Dados**
 
 - 👯 Já colaborei com banco de dados coletando informações do TOTVS para análise de estoque no Power BI para o setor de matéria-prima de plástico na **empresa Metalúrgica Mor** (https://prnt.sc/SsuwEMmG-2GC)
 
-- 🤝 Estou procurando novas oportunidades para trabalhar **na área de análise de dados**
+- 🤝 Estou procurando novas oportunidades para trabalhar **na área de análise de dados e ciência de dados**
 
 - 👨‍💻 Projeto desenvolvido para a empresa Metalúrgica Mor está em [https://app.powerbi.com/view?r=eyJrIjoiYTIxZmU2ZDYtYmE0MS00Nzk5LWIzZjgtNWUwNDkxNGQ0NDBlIiwidCI6Ijg3ZWRhOWU3LTI4MzMtNDcyMC04N2IwLTg0YTk2N2U0NTMyYSJ9](https://app.powerbi.com/view?r=eyJrIjoiYTIxZmU2ZDYtYmE0MS00Nzk5LWIzZjgtNWUwNDkxNGQ0NDBlIiwidCI6Ijg3ZWRhOWU3LTI4MzMtNDcyMC04N2IwLTg0YTk2N2U0NTMyYSJ9)
 
@@ -17,7 +17,7 @@
 
 - 📫 Serei encontrado em **lebuenno@gmail.com**
 
-- 📄 Conheça um pouco da minha última experiência [https://prnt.sc/82S8CcOmMgK5](https://prnt.sc/82S8CcOmMgK5)
+- 📄 Conheça um pouco da minha última experiência [https://prnt.sc/CAldw1C_1LGO](https://prnt.sc/CAldw1C_1LGO)
 
 - ⚡ Fato engraçado **Não gosto de ser competitivo, gosto de juntar uma equipe e transformar todos em vencedores**
 
