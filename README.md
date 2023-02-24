@@ -5,15 +5,15 @@
 
 - 🌱 Estou aprendendo atualmente **Python, Machine Learning, Power BI (DAX), SQL, Ciência de Dados**
 
-- 👯 Já colaborei com banco de dados coletando informações do TOTVS para análise de estoque no Power BI para o setor de matéria-prima de plástico na **empresa Metalúrgica Mor** (https://prnt.sc/SsuwEMmG-2GC)
+- 👯 Já modelei banco de dados, utilizando linguagem SQL e Python para coletar dados do sistema TOTVS para análise de estoque/inventário no Power BI para o setor de matéria-prima de plástico na **empresa Metalúrgica Mor** (https://prnt.sc/SsuwEMmG-2GC)
 
-- 🤝 Estou procurando novas oportunidades para trabalhar **na área de análise de dados e ciência de dados**
+- 🤝 Estou procurando novas oportunidades para trabalhar **na área de análise de dados Jr e ciência de dados**
 
 - 👨‍💻 Projeto desenvolvido para a empresa Metalúrgica Mor está em [https://app.powerbi.com/view?r=eyJrIjoiYTIxZmU2ZDYtYmE0MS00Nzk5LWIzZjgtNWUwNDkxNGQ0NDBlIiwidCI6Ijg3ZWRhOWU3LTI4MzMtNDcyMC04N2IwLTg0YTk2N2U0NTMyYSJ9](https://app.powerbi.com/view?r=eyJrIjoiYTIxZmU2ZDYtYmE0MS00Nzk5LWIzZjgtNWUwNDkxNGQ0NDBlIiwidCI6Ijg3ZWRhOWU3LTI4MzMtNDcyMC04N2IwLTg0YTk2N2U0NTMyYSJ9)
 
 - 📝 Discuto assuntos de meu interesse como citarei abaixo, porém sem blog.
 
-- 💬 Me pergunte sobre **Power BI, Modelagem de dados, Linguagem DAX, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo, WMS**
+- 💬 Me pergunte sobre **Power BI, Modelagem de dados, Linguagem DAX, Excel, SQL, GoogleSheets, Gestor de equipe, Análise de processo, WMS, TOTVS Protheus**
 
 - 📫 Serei encontrado em **lebuenno@gmail.com**
 
